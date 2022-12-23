@@ -27,12 +27,21 @@ const GuoYong = {
 </p>
 
 <h3>
-   Data Science/Artificial Intelligence
+   Data Science
 </h3>
 
 <p align="center">
-    <a href="https://github.com/YoNG-Zaii/Cuisine-Recommender-System"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Cuisine-Recommender-System&theme=github_dark"></a>
-    <a href="https://github.com/YoNG-Zaii/COVID-19-Detection-using-CNN"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=COVID-19-Detection-using-CNN&theme=github_dark"></a>
-    <a href="https://github.com/YoNG-Zaii/Stock-Market-Forecast-using-Stacked-LSTM"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Stock-Market-Forecast-using-Stacked-LSTM&theme=github_dark"></a>
-    <a href="https://github.com/YoNG-Zaii/Luminos"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Luminos&theme=github_dark"></a>
+  <a href="https://github.com/YoNG-Zaii/Singapore-COVID-19-Daily-Cases"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Singapore-COVID-19-Daily-Cases&theme=gotham"></a>
+</p>
+
+<h3>
+  Artificial Intelligence/Machine Learning
+</h3>
+
+<p align="center">
+  <a href="https://github.com/YoNG-Zaii/Casting-Products-Defects-Detection"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Casting-Products-Defects-Detection&theme=aura"></a>
+  <a href="https://github.com/YoNG-Zaii/Cuisine-Recommender-System"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Cuisine-Recommender-System&theme=aura"></a>
+  <a href="https://github.com/YoNG-Zaii/Luminos"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Luminos&theme=aura"></a>
+  <a href="https://github.com/YoNG-Zaii/COVID-19-Detection-using-CNN"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=COVID-19-Detection-using-CNN&theme=aura"></a>
+  <a href="https://github.com/YoNG-Zaii/Stock-Market-Forecast-using-Stacked-LSTM"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Stock-Market-Forecast-using-Stacked-LSTM&theme=aura"></a>
 </p>
