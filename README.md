@@ -12,6 +12,64 @@ const GuoYong = {
 };
 ```
 
+<h2>Technology Experience</h2>
+<table align="center">
+  <tr align="center">
+    <th>Type</th>
+    <th>Language</th>
+    <th>Frameworks/Libraries</th>
+  </tr>
+  
+  <tr align="center">
+    <td>Web Development</td>
+    <td>
+      <img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML">
+	    <img height="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS">
+      <img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript">     </td>
+    <td>
+      <img height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React">
+	    <img height="40" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="Chakra UI" title="Chakra UI">
+      <img height="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase">       </td>
+  </tr>
+  
+  <tr align="center">
+    <td>Data Science/AI</td>
+    <td>
+	    <img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python">
+    </td>
+    <td>
+      <img height="40" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow" title="TensorFlow">
+      <img height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="scikit-learn" title="scikit-learn">
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>General</td>
+    <td>
+	    <img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java">
+	    <img height="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++">
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>UI Prototyping</td>
+    <td>
+	    <img height="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma">
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  
+</table>
+
+<p align="center">
+
+</p>
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api?username=yong-zaii&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars,issues&bg_color=30,020119,1a1b27,023d4a">
 </p>
