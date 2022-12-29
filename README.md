@@ -118,3 +118,7 @@ const GuoYong = {
   <a href="https://github.com/YoNG-Zaii/COVID-19-Detection-using-CNN"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=COVID-19-Detection-using-CNN&theme=aura"></a>
   <a href="https://github.com/YoNG-Zaii/Stock-Market-Forecast-using-Stacked-LSTM"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Stock-Market-Forecast-using-Stacked-LSTM&theme=aura"></a>
 </p>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20beauty%20of%20data%20lies%20in%20how%20we%20can%20utilise%20them%20to%20induce%20new%20insights.">
+</p>
