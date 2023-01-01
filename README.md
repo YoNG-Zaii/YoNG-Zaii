@@ -12,8 +12,8 @@ const GuoYong = {
 ```
 <h2>Connect with Me</h2>
 <p>
-  <a href= "https://www.linkedin.com/in/tioguoyong42/">
-      <img height="80" width="auto" src="https://img.icons8.com/plasticine/512/linkedin.png" alt="Guo Yong's LinkedIn" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/tioguoyong42/">
+    <img height="40" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
