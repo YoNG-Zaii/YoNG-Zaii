@@ -59,9 +59,10 @@ const GuoYong = {
   </tr>
 
   <tr align="center">
-    <td>Version Control</td>
+    <td>Software Workflow</td>
     <td>
       <img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git">
+      <img height="40" src="image/Linear.png" alt="Linear" title="Linear">    
     </td>
     <td>
       -
