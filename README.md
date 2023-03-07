@@ -5,9 +5,9 @@
 ```javascript
 const GuoYong = {
     pronouns: "He" | "Him",
-    role: "Front-end developer of SCSE Club @ NTU",
-    currentFocus: "Making machine learning more assessible to the end user",
-    goal: "Harnessing the power of software engineering, data science, and artificial intelligence to serve the world"
+    role: "Project Manager of ASTRA @ NTU OSS HackOSS",
+    currentFocus: "Manipulating the simulated stock market through code",
+    goal: "Automated recommendation and workflow in the stock market"
 };
 ```
 <h2>Connect with Me</h2>
