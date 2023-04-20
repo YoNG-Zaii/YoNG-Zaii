@@ -5,9 +5,9 @@
 ```javascript
 const GuoYong = {
     pronouns: "He" | "Him",
-    role: "Project Manager of ASTRA @ NTU OSS HackOSS",
-    currentFocus: "Manipulating the simulated stock market through code",
-    goal: "Automated recommendation and workflow in the stock market"
+    role: "SCSE Club Front-End Developer",
+    currentFocus: "SCSE Merch Store",
+    goal: "Enlighten your mind through the revamped merch store"
 };
 ```
 <h2>Connect with Me</h2>
