@@ -40,7 +40,8 @@ const GuoYong = {
   <tr align="center">
     <td>Data Science/AI</td>
     <td>
-      <img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python">
+      <img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python">	
+      <img height="40" src="image/R.png" alt="R" title="R">
     </td>
     <td>
       <img height="40" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow" title="TensorFlow">
