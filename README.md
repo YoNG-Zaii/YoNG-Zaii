@@ -47,6 +47,7 @@ const GuoYong = {
     <td>
       <img height="40" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow" title="TensorFlow">
       <img height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="scikit-learn" title="scikit-learn">
+      <img height="40" src="image/Plotly.png" alt="Plotly" title="Plotly">
     </td>
   </tr>
 
