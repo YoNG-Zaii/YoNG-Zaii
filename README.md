@@ -5,9 +5,9 @@
 ```javascript
 const GuoYong = {
     pronouns: "He" | "Him",
-    role: "SCSE Club Front-End Developer",
-    currentFocus: "SCSE Merch Store",
-    goal: "Enlighten your mind through the revamped merch store"
+    specialisation: "Software Development/Data Science",
+    currentFocus: "Hybrid recommender system",
+    goal: "Insights and decisions driven by the combination of software and data science"
 };
 ```
 <h2>Connect with Me</h2>
@@ -45,6 +45,7 @@ const GuoYong = {
       <img height="40" src="image/R.png" alt="R" title="R">
     </td>
     <td>
+      <img height="40" src="image/PyTorch.png" alt="PyTorch" title="PyTorch">
       <img height="40" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow" title="TensorFlow">
       <img height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="scikit-learn" title="scikit-learn">
       <img height="40" src="image/Plotly.png" alt="Plotly" title="Plotly">
