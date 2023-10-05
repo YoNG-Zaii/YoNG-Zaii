@@ -6,7 +6,7 @@
 const GuoYong = {
     pronouns: "He" | "Him",
     specialisation: "Software Development/Data Science",
-    currentFocus: "Hybrid recommender system",
+    currentFocus: "Hybrid recommendation system",
     goal: "Insights and decisions driven by the combination of software and data science"
 };
 ```
@@ -119,6 +119,7 @@ const GuoYong = {
 </h3>
 
 <p align="center">
+  <a href="https://github.com/YoNG-Zaii/MH3511-FIFA-Analysis"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=MH3511-FIFA-Analysis&theme=gotham"></a>
   <a href="https://github.com/YoNG-Zaii/Singapore-COVID-19-Daily-Cases"><img height="50%" width="auto" src ="https://github-readme-stats-yong-zaii.vercel.app/api/pin/?username=yong-zaii&repo=Singapore-COVID-19-Daily-Cases&theme=gotham"></a>
 </p>
 
